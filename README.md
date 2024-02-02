@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-- Lista dos assuntos a serem estudados:
+## Lista dos assuntos a serem estudados:
 - Linux;
 - VSCode;
 - Typescript;
