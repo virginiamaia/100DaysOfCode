@@ -5,4 +5,5 @@
 - VSCode;
 - Typescript;
 - Next.js;
-- IA.
+- IA;
+- Python.
