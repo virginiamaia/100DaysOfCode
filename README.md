@@ -4,4 +4,5 @@
 - Linux;
 - VSCode;
 - Typescript;
-- Next.js
+- Next.js;
+- IA.
